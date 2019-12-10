@@ -8,6 +8,7 @@ To start, run:
 
 ```
 $ bundle install
+$ bundle bootboot
 ```
 
 This should create `Gemfile.lock` and `Gemfile_next.lock` files for you, but it
